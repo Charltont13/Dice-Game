@@ -1,1 +1,1 @@
-Program that simulates game of dice
+# Program that simulates game of dice
